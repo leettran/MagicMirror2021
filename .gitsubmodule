@@ -1,0 +1,36 @@
+[submodule “MMM-SmartTouch”]
+	path = MMM-SmartTouch
+	url = https://github.com/EbenKouao/MMM-SmartTouch
+[submodule “MMM-Wiki”]
+	path = MMM-Wiki
+	url = https://github.com/mihairinzis/MMM-wiki
+[submodule “MMM-Assistant”]
+	path = MMM-Assistant
+	url = https://github.com/gauravsacc/MMM-GoogleAssistant
+[submodule “MMM-MoonPhase”]
+	path = MMM-MoonPhase
+	url = https://github.com/NolanKingdon/MMM-MoonPhase
+[submodule “MMM-Chromecast”]
+	path = MMM-Chromecast
+	url = https://github.com/flo80/MMM-chromecast
+[submodule “MMM-Compliments”]
+	path = MMM-Compliments
+	url = https://github.com/hangorazvan/MMM-compliments_plus
+[submodule “MMM-iFrame”]
+	path = MMM-iFrame
+	url = https://github.com/alberttwong/MMM-iFrame
+[submodule “MMM-Astrology”]
+	path = MMM-Astrology
+	url = https://github.com/cowboysdude/MMM-Astrology
+[submodule “MMM-EARTH”]
+	path = MMM-EARTH
+	url = https://github.com/mykle1/MMM-EARTH
+[submodule “MMM-Face”]
+	path = MMM-Face
+	url = https://github.com/paviro/MMM-Facial-Recognition
+[submodule “MMM-Spotify”]
+	path = MMM-Spotify
+	url = https://github.com/skuethe/MMM-Spotify
+[submodule “MMM-DailyWisdom”]
+	path = MMM-DailyWisdom
+	url = https://github.com/anthpham/MMM-DailyBuddhismWisdom
